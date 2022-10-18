@@ -1,2 +1,4 @@
 #!/bin/bash
+export CFILE=main.c
+gcc -c -masm=intel main.c -o main.s
 
