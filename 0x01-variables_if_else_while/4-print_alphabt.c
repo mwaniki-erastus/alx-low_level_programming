@@ -1,14 +1,9 @@
-
 #include <stdio.h>
-
 /**
- * main - Entry point
- *
- * Description: Prints the alphabet in lowercase, except for q and e
- *
+ * main - Entry point during execution
+ * A Program that prints the alphabet in lowercase followeb by a new lne
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	char lower;
