@@ -1,3 +1,4 @@
+#include <stdio.h>
 /**
  * main - Entry point during execution
  * A program that prints all numbers of base
@@ -8,15 +9,11 @@ int main(void)
 {
 	char i, o;
 
-	for (i = 48; i <= 57; i++)
-	{
+	for (i = '1'; i <= '9'; i++)
 		putchar(i);
-	}
-
 	for (o = 'a'; o <= 'f'; o++)
-	{
 		putchar(o);
-	}
 	putchar('\n');
+
 	return (0);
 }
