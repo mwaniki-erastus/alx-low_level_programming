@@ -1,31 +1,8 @@
-#ifndef _MAIN_H_
-#define _MAIN_H_
+#ifndef MAIN_H
+#define MAIN_H
 
 #include <stdio.h>
-int _putchar(char c);
 
-/**
- * print_alphabet - print lowercase alphabet
- */
+void positive_or_negative(int i);
 
-void print_alphabet(void);
-
-/**
- * print_alphabet_x10 - print lowercase alphabet ten times
- */
-
-void print_alphabet_x10(void);
-
-/**
- * _islower - checks for lowercase
- * @c: the character to check
- * Return: int
- */
-
-int _islower(int c);
-int _isalpha(int c);
-int print_sign(int n);
-int _abs(int);
-int print_last_digit(int);
-
-#endif /* _MAIN_H_ */
+#endif /* MAIN_H */
