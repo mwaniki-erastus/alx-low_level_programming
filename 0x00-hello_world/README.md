@@ -6,3 +6,4 @@
 4-puts.c - uses the puts function to print a string to the standard output
 5-printf.c - uses printf to print a string on the standard output
 6-size.c - prints the sizes of various data types based on the computer it is compiled and run on
+100-intel - prints the assembly code in intel syntax
