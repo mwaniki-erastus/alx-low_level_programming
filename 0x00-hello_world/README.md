@@ -4,3 +4,4 @@
 3-name - uses the -o option to create an executable with a given name
 3-name - compiles a c file and creates a named executable
 4-puts.c - uses the puts function to print a string to the standard output
+5-printf.c - uses printf to print a string on the standard output
