@@ -3,3 +3,4 @@
 2-assembler - uses the -S switch to print the output of the compiler module which is assembly  code with a .s extension
 3-name - uses the -o option to create an executable with a given name
 3-name - compiles a c file and creates a named executable
+4-puts.c - uses the puts function to print a string to the standard output
