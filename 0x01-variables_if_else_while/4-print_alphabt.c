@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	char l, u;
+	char l;
 
 	for(l=97;l<=122;l++)
 	{
