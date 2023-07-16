@@ -8,9 +8,9 @@ int main(void)
 	{
 		putchar(l);
 	}
-	for(l=65;l<=90;l++)
+	for(u=65;u<=90;u++)
 	{
-		putchar(l);
+		putchar(u);
 	}
 	putchar('\n');
 
