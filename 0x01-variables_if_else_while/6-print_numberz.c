@@ -4,7 +4,7 @@ int main(void)
 {
 	char l;
 
-	for(l=48;l<=57;l++)
+	for(l='1';l<='9';l++)
 	{
 		putchar(l);
 	}
