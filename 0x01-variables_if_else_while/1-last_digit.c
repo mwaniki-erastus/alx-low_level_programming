@@ -2,7 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/* betty style doc for function main goes there */
+/**
+ * main - Entry point
+ * Return: Always(0) Success
+ */
 int main(void)
 {
 	int n;
@@ -10,7 +13,7 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	int l;
-       	
+
 	l = n % 10;
 	printf("The last digit of %d is %d ", n, l);
 
