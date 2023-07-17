@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point. Prints all single digits 0, 1, 2, 
+ * main - Entry point. Prints all single digits 0, 1, 2,
  * Return: Always(0) Success
  */
 int main(void)
