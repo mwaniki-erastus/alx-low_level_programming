@@ -1,17 +1,17 @@
 #include <stdio.h>
 /**
- * main - Entry point. Prints all digits of base 0 withou
+ * main - Entry poinr
  * Return: Always(0) Success
  */
+
 int main(void)
 {
-	int l;
+	char c;
 
-	for (l = 48; l < 58; l++)
+	for (c = 122; c >= 97; c--)
 	{
-		putchar(l);
+		putchar(c);
 	}
 	putchar('\n');
-
 	return (0);
 }
