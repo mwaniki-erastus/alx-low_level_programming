@@ -7,3 +7,4 @@ The first function _putchar was a tough one to crack
 void print_alphabet_x10(void) - nested loop for inside while to print the alphabet in lowercase 10 times followed by a newline each time
 3-islower.c uses a function int _islower(int c); to check if a character is lowercase and returns 1 if its true else it returns 0
 4-isalpha.c - checks whether a character is uppercase or lowercase using isalpha()
+5-sign.c - checks if a number n > 1 prints + and returns 1 if n < 1 prints - and returns -1 if n=0 0 return 0
