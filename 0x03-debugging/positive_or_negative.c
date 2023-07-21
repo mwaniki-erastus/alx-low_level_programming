@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - Entry point
- * Return: Always(0) Success
+ * positive_or_negative - checks for +/-
+ * @i: parameter to bechecked
  */
 void positive_or_negative(int i)
 {
