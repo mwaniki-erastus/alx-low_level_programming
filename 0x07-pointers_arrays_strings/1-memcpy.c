@@ -9,9 +9,9 @@
 char *_memcpy(char *dest, char *src, unsigned int n)
 {
 	unsigned int i, j;
+
 	i = 0;
 	j = 0;
-
 	while (i < n)
 	{
 		while (j < n)
